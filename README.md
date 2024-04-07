@@ -14,4 +14,4 @@ El cálculo se realiza utilizando las siguientes ecuaciones:
 3. La ecuación ideal de cohete de Tsiolkovski.
 
 ## Ejemplo de uso de petición al micro y respuesta
-En este ejemplo, `![Ejemplo de uso del microservicio]([Peticion y respuesta.png](https://raw.githubusercontent.com/museumis/CalculoTrayectorias/main/imagenes/Peticion%20y%20respuesta.png))`
+![Ejemplo de uso del microservicio](https://raw.githubusercontent.com/museumis/CalculoTrayectorias/main/imagenes/Peticion%20y%20respuesta.png)
