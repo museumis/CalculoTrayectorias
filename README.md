@@ -13,4 +13,5 @@ El cálculo se realiza utilizando las siguientes ecuaciones:
 2. La segunda ley de Newton.
 3. La ecuación ideal de cohete de Tsiolkovski.
 
-## Ejemplo de uso
+## Ejemplo de uso de petición al micro y respuesta
+En este ejemplo, `![Ejemplo de uso del microservicio](Peticion y respuesta.png)`
